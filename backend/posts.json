@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "first",
+    "content": "going home",
+    "author": "Nafif",
+    "date": "2026-11-24"
+  },
+  {
+    "id": 2,
+    "title": "New title",
+    "content": "super mario",
+    "author": "Dark",
+    "date": "2023-06-08"
+  },
+  {
+    "id": 3,
+    "title": "hiking ",
+    "content": "baveria",
+    "author": "BVN",
+    "date": "2017-06-05"
+  },
+  {
+    "id": 4,
+    "title": "Flask first steps",
+    "content": "Learning APIs",
+    "author": "Nafif",
+    "date": "2017-06-29"
+  },
+  {
+    "id": 5,
+    "title": "Coffee",
+    "content": "Espresso",
+    "author": "CND",
+    "date": "2026-06-16"
+  }
+]
